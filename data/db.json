@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": "2",
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": "3",
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "id": "261d",
+      "name": "teste",
+      "price": "12"
+    },
+    {
+      "id": "4060",
+      "name": "tes",
+      "price": "3"
+    },
+    {
+      "id": "ddbf",
+      "name": "mouse",
+      "price": "30"
+    },
+    {
+      "id": "c9b8",
+      "name": "mouse",
+      "price": "30"
+    }
+  ]
+}
